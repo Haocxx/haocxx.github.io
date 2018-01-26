@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Queue
+title: [Java]Queue
 ---
 
 {{ page.title }}
