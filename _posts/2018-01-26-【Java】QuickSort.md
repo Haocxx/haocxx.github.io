@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ¡¾Java¡¿ QuickSort
+title: [Java]QuickSort
 ---
 
 {{ page.title }}
