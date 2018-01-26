@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [Java]LinkedList
+title: LinkedList
 ---
 
 {{ page.title }}
